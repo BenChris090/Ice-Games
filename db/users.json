@@ -1,0 +1,32 @@
+[
+    {
+        "user_name": "John",
+        "password": "1234",
+        "created at": "2022-05-18 20:12:54.583946"
+    },
+    {
+        "user_name": "Emmanuel",
+        "password": "emma",
+        "created at": "2022-05-19 08:17:58.033713"
+    },
+    {
+        "user_name": "name",
+        "password": "namely",
+        "created at": "2022-05-19 08:48:18.882860"
+    },
+    {
+        "user_name": "rand",
+        "password": "1234",
+        "created at": "2022-05-19 10:28:28.709440"
+    },
+    {
+        "user_name": "cybergirl",
+        "password": "123456",
+        "created at": "2022-05-20 12:06:50.707412"
+    },
+    {
+        "user_name": "hermano",
+        "password": "saliant",
+        "created at": "2022-05-20 12:14:42.929331"
+    }
+]
