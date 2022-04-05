@@ -63,7 +63,6 @@ def Calc():
     def dividenum():
         entry1.insert("end", "/")
     def clear():
-        #re = entry1.get()
         entry1.delete("0", "end")
     def equalsto():
         re = entry1.get()
