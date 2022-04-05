@@ -28,5 +28,10 @@
         "user_name": "hermano",
         "password": "saliant",
         "created at": "2022-05-20 12:14:42.929331"
+    },
+    {
+        "user_name": "Joseph",
+        "password": "12345",
+        "created at": "2022-04-04 15:04:09.152178"
     }
 ]
